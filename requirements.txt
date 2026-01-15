@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+django>=4.2
+django-cors-headers>=4.3

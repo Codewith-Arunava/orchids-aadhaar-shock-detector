@@ -1,0 +1,91 @@
+date,state,district,update_type,num_updates
+2023-10-01,Maharashtra,Mumbai,address,1200
+2023-10-02,Maharashtra,Mumbai,address,1250
+2023-10-03,Maharashtra,Mumbai,address,1180
+2023-10-04,Maharashtra,Mumbai,address,1220
+2023-10-05,Maharashtra,Mumbai,address,1300
+2023-10-06,Maharashtra,Mumbai,address,1210
+2023-10-07,Maharashtra,Mumbai,address,1240
+2023-10-08,Maharashtra,Mumbai,address,1190
+2023-10-09,Maharashtra,Mumbai,address,1260
+2023-10-10,Maharashtra,Mumbai,address,2500
+2023-10-11,Maharashtra,Mumbai,address,2300
+2023-10-12,Maharashtra,Mumbai,address,1210
+2023-10-13,Maharashtra,Mumbai,address,1180
+2023-10-14,Maharashtra,Mumbai,address,1250
+2023-10-15,Maharashtra,Mumbai,address,1230
+2023-10-01,Karnataka,Bangalore,mobile,800
+2023-10-02,Karnataka,Bangalore,mobile,820
+2023-10-03,Karnataka,Bangalore,mobile,790
+2023-10-04,Karnataka,Bangalore,mobile,810
+2023-10-05,Karnataka,Bangalore,mobile,830
+2023-10-06,Karnataka,Bangalore,mobile,200
+2023-10-07,Karnataka,Bangalore,mobile,150
+2023-10-08,Karnataka,Bangalore,mobile,805
+2023-10-09,Karnataka,Bangalore,mobile,815
+2023-10-10,Karnataka,Bangalore,mobile,795
+2023-10-11,Karnataka,Bangalore,mobile,825
+2023-10-12,Karnataka,Bangalore,mobile,810
+2023-10-13,Karnataka,Bangalore,mobile,800
+2023-10-14,Karnataka,Bangalore,mobile,820
+2023-10-15,Karnataka,Bangalore,mobile,810
+2023-10-01,Delhi,New Delhi,biometric,500
+2023-10-02,Delhi,New Delhi,biometric,510
+2023-10-03,Delhi,New Delhi,biometric,490
+2023-10-04,Delhi,New Delhi,biometric,505
+2023-10-05,Delhi,New Delhi,biometric,520
+2023-10-06,Delhi,New Delhi,biometric,495
+2023-10-07,Delhi,New Delhi,biometric,515
+2023-10-08,Delhi,New Delhi,biometric,500
+2023-10-09,Delhi,New Delhi,biometric,480
+2023-10-10,Delhi,New Delhi,biometric,1200
+2023-10-11,Delhi,New Delhi,biometric,510
+2023-10-12,Delhi,New Delhi,biometric,490
+2023-10-13,Delhi,New Delhi,biometric,505
+2023-10-14,Delhi,New Delhi,biometric,520
+2023-10-15,Delhi,New Delhi,biometric,500
+2023-10-01,West Bengal,Kolkata,address,950
+2023-10-02,West Bengal,Kolkata,address,980
+2023-10-03,West Bengal,Kolkata,address,920
+2023-10-04,West Bengal,Kolkata,address,960
+2023-10-05,West Bengal,Kolkata,address,940
+2023-10-06,West Bengal,Kolkata,address,970
+2023-10-07,West Bengal,Kolkata,address,2100
+2023-10-08,West Bengal,Kolkata,address,2250
+2023-10-09,West Bengal,Kolkata,address,980
+2023-10-10,West Bengal,Kolkata,address,950
+2023-10-11,West Bengal,Kolkata,address,930
+2023-10-12,West Bengal,Kolkata,address,960
+2023-10-13,West Bengal,Kolkata,address,940
+2023-10-14,West Bengal,Kolkata,address,970
+2023-10-15,West Bengal,Kolkata,address,955
+2023-10-01,West Bengal,Kolkata,mobile,650
+2023-10-02,West Bengal,Kolkata,mobile,680
+2023-10-03,West Bengal,Kolkata,mobile,640
+2023-10-04,West Bengal,Kolkata,mobile,670
+2023-10-05,West Bengal,Kolkata,mobile,660
+2023-10-06,West Bengal,Kolkata,mobile,150
+2023-10-07,West Bengal,Kolkata,mobile,120
+2023-10-08,West Bengal,Kolkata,mobile,665
+2023-10-09,West Bengal,Kolkata,mobile,675
+2023-10-10,West Bengal,Kolkata,mobile,655
+2023-10-11,West Bengal,Kolkata,mobile,680
+2023-10-12,West Bengal,Kolkata,mobile,660
+2023-10-13,West Bengal,Kolkata,mobile,650
+2023-10-14,West Bengal,Kolkata,mobile,670
+2023-10-15,West Bengal,Kolkata,mobile,665
+2023-10-01,West Bengal,Kolkata,biometric,420
+2023-10-02,West Bengal,Kolkata,biometric,430
+2023-10-03,West Bengal,Kolkata,biometric,410
+2023-10-04,West Bengal,Kolkata,biometric,425
+2023-10-05,West Bengal,Kolkata,biometric,415
+2023-10-06,West Bengal,Kolkata,biometric,420
+2023-10-07,West Bengal,Kolkata,biometric,430
+2023-10-08,West Bengal,Kolkata,biometric,415
+2023-10-09,West Bengal,Kolkata,biometric,425
+2023-10-10,West Bengal,Kolkata,biometric,420
+2023-10-11,West Bengal,Kolkata,biometric,430
+2023-10-12,West Bengal,Kolkata,biometric,410
+2023-10-13,West Bengal,Kolkata,biometric,420
+2023-10-14,West Bengal,Kolkata,biometric,425
+2023-10-15,West Bengal,Kolkata,biometric,418
