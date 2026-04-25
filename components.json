@@ -3,7 +3,7 @@
   "style": "new-york",
   "rsc": true,
   "tsx": true,
-  "tailwind": {
+  "tailwind": { 
     "config": "",
     "css": "src/app/globals.css",
     "baseColor": "neutral",
