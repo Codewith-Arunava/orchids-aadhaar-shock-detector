@@ -3,7 +3,7 @@
   "workspaces": {
     "": {
       "name": "app",
-      "dependencies": {
+      "dependencies": { 
         "@babel/parser": "^7.28.5",
         "@headlessui/react": "^2.2.9",
         "@heroicons/react": "^2.2.0",
