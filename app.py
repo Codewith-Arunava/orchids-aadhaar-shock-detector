@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from datetime import datetime
   
 # 1. Page Configuration
-st.set_page_config(
+st.set_page_config( 
     page_title="Aadhaar Update Shock Detector",
     page_icon="🛡️",
     layout="wide",
